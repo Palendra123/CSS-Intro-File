@@ -1,0 +1,31 @@
+ /*----tag selector---*/
+
+
+h1{
+    color: rgb(255, 19, 19); 
+    font-size: 200px;
+}
+/*
+img{
+     background-color: aqua;
+
+} */
+
+/*-----class selector----*/
+
+.broccoli{
+    background-color: brown;
+}
+
+.bacon{
+    background-color: blueviolet;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+/*-----id Selector----*/
+#heading{
+    color: aqua;
+}
